@@ -1,6 +1,4 @@
 // function in action 
-
-
 function greet(name){
     return "Hello greetings, " + name;
 }
