@@ -5,3 +5,5 @@
 ## const:
 -const explored in details & got to know the pros and cons
 
+## operators:
+-operators in action 
